@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variable files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Docker artifacts
+*.pid
+*.log
+
+# Sensitive config files (add more as needed)
+*.pem
+*.key
+*.crt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

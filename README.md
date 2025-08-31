@@ -1,1 +1,1 @@
-Testing MCP 
+Basic setup for an MCP server
